@@ -15,4 +15,3 @@ console.log(ubicacion0,ubicacion2)
 let mensaje = "Exportar el archivo"
 console.log(mensaje)
 
-console.log("error")
