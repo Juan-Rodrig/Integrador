@@ -4,7 +4,7 @@ const [pos0,,pos2] = numeros
 const numerosTodos = [...numeros, ...nums]
 
 console.log(pos0,pos2);
-console.log(pos0 + pos2)
+console.log(pos0 - pos2)
 console.log(numerosTodos)
 
 const numeros2 = [4,5,6]
